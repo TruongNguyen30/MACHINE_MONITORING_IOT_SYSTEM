@@ -30,7 +30,7 @@ This is a 2-layer PCB designed as a versatile IoT sensor node. It is powered by 
 
 <img width="1021" height="695" alt="Screenshot 2025-12-30 145327" src="https://github.com/user-attachments/assets/65d65071-4080-4b85-8568-013538a410cf" />
 
-##LAYER STACK AND INPEDANCE:
+##LAYER STACK AND IMPEDANCE:
 
 <img width="1282" height="222" alt="Screenshot 2025-12-30 144849" src="https://github.com/user-attachments/assets/6dd1e758-e7f1-4cd9-973e-027b4b6d9df4" />
 
