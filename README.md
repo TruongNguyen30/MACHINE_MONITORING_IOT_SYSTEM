@@ -2,10 +2,15 @@
 This is a 2-layer PCB designed as a versatile IoT sensor node. It is powered by the ESP32-S3 module and features Ethernet connectivity through a W5500 controller and RJ45 port.
 
 ##Key Features:
+
 -MCU: ESP32-S3 module.
+
 -Connectivity: W5500 Ethernet (RJ45) & USB-C interface.
+
 -Sensors: On-board MPU6050 (Gyro/Accel) and Temperature sensor.
+
 -Expansion: IO pins are broken out to connectors for flexible external connections.
+
 -PCB Specs: 2-layer design optimized for compact layout.
 
 ##3D VIEW:
