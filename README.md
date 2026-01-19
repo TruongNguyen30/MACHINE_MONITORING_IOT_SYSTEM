@@ -1,6 +1,6 @@
 # MACHINE_MONITORING_IOT_SYSTEM
 This is a 2-layer PCB designed as a versatile IoT sensor node. It is powered by the ESP32-S3 module and features Ethernet connectivity through a W5500 controller and RJ45 port.
-
+Files with the extension _VER2 are the latest version
 ## Key Features:
 
 -MCU: ESP32-S3 module.
