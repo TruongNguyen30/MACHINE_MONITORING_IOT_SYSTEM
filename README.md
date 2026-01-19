@@ -58,3 +58,8 @@ This is a 2-layer PCB designed as a versatile IoT sensor node. It is powered by 
 <img width="902" height="653" alt="Screenshot 2026-01-19 172903" src="https://github.com/user-attachments/assets/87192ae6-69e0-4f0b-b8dc-7d530e4bcb13" />
 
 <img width="901" height="650" alt="Screenshot 2026-01-19 172912" src="https://github.com/user-attachments/assets/504498c5-6f6a-494b-bcb7-f2ebb4cb8dd5" />
+
+## Length matching for RX & TX:
+
+<img width="378" height="319" alt="Screenshot 2026-01-19 173624" src="https://github.com/user-attachments/assets/6025c92e-b09f-44e2-a363-63e50ce1aed3" />
+
