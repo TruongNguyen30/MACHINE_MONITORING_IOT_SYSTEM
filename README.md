@@ -53,7 +53,7 @@ This is a 2-layer PCB designed as a versatile IoT sensor node. It is powered by 
 
 <img width="900" height="651" alt="Screenshot 2026-01-19 172832" src="https://github.com/user-attachments/assets/3087914c-ee6c-4f6d-b15c-726f4c08a874" />
 
-##Turning for Ethernet connection:
+## Turning for Ethernet connection:
 
 <img width="902" height="653" alt="Screenshot 2026-01-19 172903" src="https://github.com/user-attachments/assets/87192ae6-69e0-4f0b-b8dc-7d530e4bcb13" />
 
